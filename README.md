@@ -1,2 +1,2 @@
 # data-engineering-zoomcamp-2026
-Workshop codespaces
+Workshop using codespaces

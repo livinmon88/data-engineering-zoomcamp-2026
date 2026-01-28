@@ -1,4 +1,4 @@
-# Data-Engineering-zoomcamp-2026
+# Data-Engineering-Zoomcamp-2026
 
 Development using codespaces
 Welcome to DataTalks.Club

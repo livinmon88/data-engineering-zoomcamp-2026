@@ -1,8 +1,11 @@
-# Data-Engineering-Zoomcamp-2026
+# data-engineering-zoomcamp-2026
 
-Development using codespaces
-Welcome to DataTalks.Club
 
-Course link : DataTalksClub/data-engineering-zoomcamp: Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. 
+🚀 Week 1 of Data Engineering Zoomcamp !
 
-Join the course here 👇🏼<img width="1096" height="112" alt="image" src="https://github.com/user-attachments/assets/b23c07e1-b255-4a07-90b9-d00d689ecf5e" />
+Module 1 - Docker & Terraform. Learned how to:
+
+✅ Containerize applications with Docker and Docker Compose
+✅ Set up PostgreSQL databases and write SQL queries
+✅ Build data pipelines to ingest NYC taxi data
+✅ Provision cloud infrastructure with Terraform

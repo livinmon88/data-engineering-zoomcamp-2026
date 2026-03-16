@@ -68,7 +68,22 @@
 - ✅ Inspect pipeline metadata with the dlt Dashboard
 - ✅ Query datasets using DuckDB & marimo notebooks
 
- --- 
+✨ Built modern API ingestion pipelines with **dlt** and explored lightweight analytics using **DuckDB**.
+
+---
+
+## 🚀 Week 7: Streaming with PyFlink
+
+- ✅ Set up **Redpanda** as a Kafka-compatible streaming platform
+- ✅ Build **Kafka producers and consumers in Python**
+- ✅ Process streaming data using **Apache Flink (PyFlink)**
+- ✅ Create **tumbling and session windows** for event aggregation
+- ✅ Perform real-time analytics on **NYC Taxi trip data**
+- ✅ Understand **stateful stream processing**
+
+✨ Built real-time data pipelines and performed **stream processing with PyFlink and Redpanda**.
+
+---
 
 
 
